@@ -131,8 +131,8 @@ Agil Kannan
 
 🎓 B.Tech IT Student (2021–2025)
 
-🌐 LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agil%20Kannan-blue?logo=linkedin)](https://www.linkedin.com/in/agilkannan)  
+[![GitHub](https://img.shields.io/badge/GitHub-Agilkannan-black?logo=github)](https://github.com/Agilkannan)  
 
-💻 GitHub
 
 ✨ If you like this project, don’t forget to ⭐ the repo!
