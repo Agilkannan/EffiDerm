@@ -97,47 +97,6 @@ Parameters: ~1.4M
 
 Memory: ~5.6 MB
 
-📌 Sample Outputs
-
-Training Curves
-
-
-
-
-Confusion Matrix
-
-
-Sample Predictions
-
-
-Grad-CAM Interpretability
-(Add Grad-CAM heatmaps if available)
-
-🚀 How to Run
-1. Clone the repository
-git clone https://github.com/Agilkannan/EffiDerm.git
-cd EffiDerm
-
-2. Install dependencies
-pip install -r requirements.txt
-
-3. Run training
-python skin_cancer_train.py
-
-4. Run inference
-python predict.py --image sample.jpg
-
-📂 Project Structure
-EffiDerm/
-│── dataset/               # HAM10000 dataset (to be downloaded)
-│── models/                # Saved models (.h5)
-│── notebooks/             # Jupyter/VSCode notebooks
-│── outputs/               # Results, confusion matrix, training curves
-│── skin_cancer_train.py   # Main training script
-│── predict.py             # Run predictions on new images
-│── requirements.txt       # Dependencies
-│── README.md              # Project documentation
-
 🌍 Applications
 
 Clinical decision-support tool for dermatologists
